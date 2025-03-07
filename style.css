@@ -1,0 +1,51 @@
+li{
+    display:inline;
+    padding:10px;
+    margin:30px;
+   
+}
+img{
+    width:230px;
+    height: 230px;
+  border-radius:100%;
+  object-fit: cover;
+  bottom: 43%;
+  right:40%;
+  position: absolute;
+  left: 40.2%;
+
+
+
+ 
+}
+button{
+    border-radius: 5px;
+}
+.first-half{
+    color: blueviolet;
+}
+.pic{
+    width: 40px;
+    height: 40px;
+    border: 1px solid burlywood;
+    padding: 120px;
+    border-radius: 100%;
+  
+
+   
+        
+}
+
+.container{
+    display: flex;
+    
+    
+
+}
+nav{
+    display:flex;
+   
+}
+div3{
+    text-align: center;
+}
