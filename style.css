@@ -9,7 +9,7 @@ img{
     height: 200px;
   border-radius:100%;
   object-fit: cover;
-  bottom: 56.5%;
+  bottom: 57%;
   right:40%;
   position: absolute;
   left: 48.75%;
@@ -22,7 +22,7 @@ button{
     border-radius: 5px;
 }
 .first-half{
-    color: blueviolet;
+    color: burlywood;
 }
 .pic{
     width: 40px;
